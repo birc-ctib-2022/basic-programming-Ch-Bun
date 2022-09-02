@@ -49,7 +49,7 @@ match sys.argv[1]:
         #calculate the sum 
         sum = 0
         for i in x:
-            sum += x
+            sum += i
         #calculate the mean
         
         mean = (sum/len(x))
