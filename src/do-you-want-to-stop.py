@@ -6,7 +6,7 @@
 while True:
 
     # this asks the user if he/she wants to stop
-    answer = str(input("Do you want to stop?"))
+    answer = str(input("Do you want to stop? "))
 
     if answer == 'yes':
         break
